@@ -3,8 +3,10 @@
 ## Description 
   A simple note taking app that utilizes express, the notes entered by user are saved and stay on the left panel until user deletes them. 
   
-  Here's an screenshot:
+  Here's are some screenshots:
   ![ScreenShot](notes.PNG)
+
+  ![ScreenShot](note.PNG)
   
   
   Here's the link to access the deployed app!
